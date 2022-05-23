@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandeeppppp
+- 👋 Hi, I’m @Sandeep-Narahari
 - 👀 I’m interested in Learning New Technologies
 - 🌱 I’m currently learning Django Full stack development
 - 💞️ 
